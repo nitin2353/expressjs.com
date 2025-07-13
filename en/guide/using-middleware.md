@@ -260,7 +260,7 @@ Use third-party middleware to add functionality to Express apps.
 
 Install the Node.js module for the required functionality, then load it in your app at the application level or at the router level.
 
-The following example illustrates installing and loading the cookie-parsing middleware function `cookie-parser`.
+The following example iustrates installing and loading the cookie-parsing middleware function `cookie-parser`.
 
 ```bash
 $ npm install cookie-parser
